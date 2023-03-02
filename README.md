@@ -1,2 +1,2 @@
 # pr-quadtree
-Univeristy project involving building a quadtree and supporting exact and range query search
+Implementation of a point region quadtree in C, supporting insertion, searching for individual datapoints, and searching for all datapoints within a query rectangle.
